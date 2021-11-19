@@ -1,0 +1,30 @@
+ERROR 2021-11-18 20:51:40,354 views 15065 140375858435840 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 20:51:40,390 views 15065 140375858435840 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 20:54:59,529 views 17470 140509448079104 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 20:54:59,529 views 17470 140509448079104 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:10:53,704 views 19530 140214456030976 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:10:53,704 views 19530 140214456030976 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:12:03,250 views 19718 140713676560128 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:12:03,266 views 19718 140713676560128 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:13:05,370 views 19889 140547595740928 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:13:05,370 views 19889 140547595740928 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:13:32,741 views 19916 139968899372800 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:13:32,741 views 19916 139968899372800 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:23:40,513 views 21471 140510200735488 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:23:40,555 views 21471 140510200735488 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:24:10,438 views 21652 139760127592192 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:24:10,438 views 21652 139760127592192 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:24:56,208 views 21725 139844739868416 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:24:56,209 views 21725 139844739868416 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:27:42,699 views 22120 140501063120640 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:27:42,699 views 22120 140501063120640 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:28:03,914 views 22183 140506049279744 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:28:03,914 views 22183 140506049279744 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:28:18,192 views 22205 140195187484416 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:28:18,192 views 22205 140195187484416 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:28:41,345 views 22321 139707808532224 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:28:41,345 views 22321 139707808532224 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:30:22,930 views 22581 140580018988800 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:30:22,945 views 22581 140580018988800 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.
+ERROR 2021-11-18 21:30:50,817 views 22617 140253220415232 get_seats_as_per_showtime 136 Error in MovieView get_seats_as_per_showtime
+ERROR 2021-11-18 21:30:50,818 views 22617 140253220415232 get_seats_as_per_showtime 137 Exception: Field 'id' expected a number but got 'rtetre'.

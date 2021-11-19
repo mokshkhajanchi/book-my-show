@@ -1,0 +1,46 @@
+INFO 2021-11-16 20:09:06,525 autoreload 14247 139969468143360 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:11:03,730 autoreload 14247 139969468143360 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:11:04,290 autoreload 14598 139655862408960 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:21:00,270 autoreload 14598 139655862408960 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:21:00,829 autoreload 15840 140299017815808 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:21:29,975 autoreload 15840 140299017815808 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:21:30,373 autoreload 15868 139892881049344 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:21:40,933 autoreload 15868 139892881049344 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:21:41,357 autoreload 15891 139877938493184 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:26:21,107 autoreload 15891 139877938493184 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:26:22,406 autoreload 16555 140481709889280 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:26:28,325 autoreload 16582 140167571748608 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:26:39,943 autoreload 16582 140167571748608 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/urls.py changed, reloading.
+INFO 2021-11-16 20:26:40,984 autoreload 16663 139776825493248 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:26:44,398 autoreload 16720 140540277651200 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:27:48,820 autoreload 16720 140540277651200 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/models.py changed, reloading.
+INFO 2021-11-16 20:27:49,464 autoreload 16866 140219774830336 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:31:53,066 autoreload 16866 140219774830336 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:31:53,723 autoreload 17419 140028419327744 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:32:20,923 autoreload 17419 140028419327744 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:32:21,556 autoreload 17511 139791638910720 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:32:35,179 autoreload 17511 139791638910720 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:32:35,729 autoreload 17531 139983670699776 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:32:53,477 autoreload 17531 139983670699776 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:32:53,937 autoreload 17556 140379017488128 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:32:59,376 autoreload 17556 140379017488128 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:32:59,926 autoreload 17612 140553566054144 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:33:48,827 autoreload 17612 140553566054144 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:33:51,660 autoreload 17949 139885083916032 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:34:38,199 autoreload 17949 139885083916032 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/bms/settings.py changed, reloading.
+ERROR 2021-11-16 20:35:19,561 views 18144 140381878482688 reserve_tickets 190 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:35:19,561 views 18144 140381878482688 reserve_tickets 191 Exception: unhashable type: 'dict'
+ERROR 2021-11-16 20:36:29,375 views 18360 140265318811392 reserve_tickets 190 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:36:29,377 views 18360 140265318811392 reserve_tickets 191 Exception: unhashable type: 'dict'
+ERROR 2021-11-16 20:37:48,958 views 18416 139766647424768 reserve_tickets 191 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:37:48,958 views 18416 139766647424768 reserve_tickets 192 Exception: unhashable type: 'dict'
+ERROR 2021-11-16 20:38:50,599 views 18889 139892627068672 reserve_tickets 191 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:38:50,600 views 18889 139892627068672 reserve_tickets 192 Exception: unhashable type: 'dict'
+ERROR 2021-11-16 20:39:15,951 views 19052 140556335625984 reserve_tickets 192 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:39:15,951 views 19052 140556335625984 reserve_tickets 193 Exception: unhashable type: 'dict'
+ERROR 2021-11-16 20:39:52,689 views 19122 139952392242944 reserve_tickets 191 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:39:52,689 views 19122 139952392242944 reserve_tickets 192 Exception: unhashable type: 'dict'
+ERROR 2021-11-16 20:40:45,036 views 19228 139691142510336 reserve_tickets 190 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:40:45,037 views 19228 139691142510336 reserve_tickets 191 Exception: unhashable type: 'dict'
+ERROR 2021-11-16 20:47:12,782 views 20137 140041762780928 reserve_tickets 205 Error in ReservatonView reserve_tickets
+ERROR 2021-11-16 20:47:12,787 views 20137 140041762780928 reserve_tickets 206 Exception: 'Reservation' object does not support item deletion

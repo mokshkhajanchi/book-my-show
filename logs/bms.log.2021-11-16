@@ -1,0 +1,393 @@
+INFO 2021-11-16 18:32:46,887 autoreload 32510 140481279751936 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:36:57,712 basehttp 32510 140481171199744 log_message 161 [m"POST /core/movie_as_per_city/ HTTP/1.1" 200 124[0m
+INFO 2021-11-16 18:37:34,662 autoreload 32510 140481279751936 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 18:37:44,480 autoreload 840 139772420105984 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:37:49,483 basehttp 840 139772311553792 log_message 161 [m"POST /core/movie_as_per_city/ HTTP/1.1" 200 139[0m
+INFO 2021-11-16 18:39:23,670 autoreload 840 139772420105984 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 18:39:32,629 autoreload 1210 139933833578240 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:39:37,057 basehttp 1210 139933657855744 log_message 161 [m"POST /core/movie_as_per_city/ HTTP/1.1" 200 159[0m
+INFO 2021-11-16 18:40:13,860 autoreload 1210 139933833578240 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 18:40:24,043 autoreload 1301 139729334781696 run_with_reloader 637 Watching for file changes with StatReloader
+ERROR 2021-11-16 18:40:28,231 views 1301 139729226229504 get_movies_as_per_city 46 Error in MovieView get_movies_as_per_city
+ERROR 2021-11-16 18:40:28,231 views 1301 139729226229504 get_movies_as_per_city 47 Exception: 'Showtime' object has no attribute 'start_date'
+WARNING 2021-11-16 18:40:28,233 basehttp 1301 139729226229504 log_message 161 [31;1m"POST /core/movie_as_per_city/ HTTP/1.1" 400 86[0m
+INFO 2021-11-16 18:40:42,472 autoreload 1301 139729334781696 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 18:40:50,232 autoreload 1379 140219749869312 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:40:55,556 basehttp 1379 140219641317120 log_message 161 [m"POST /core/movie_as_per_city/ HTTP/1.1" 200 215[0m
+INFO 2021-11-16 18:44:02,368 autoreload 1379 140219749869312 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 18:44:10,527 autoreload 1917 139881450882816 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:45:20,795 autoreload 1917 139881450882816 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 18:45:27,831 autoreload 2127 139679744882432 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:46:48,163 autoreload 2127 139679744882432 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/urls.py changed, reloading.
+INFO 2021-11-16 18:46:55,447 autoreload 2375 140374707468032 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:48:04,604 basehttp 2375 140374598915840 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 68[0m
+INFO 2021-11-16 18:48:20,488 basehttp 2375 140374598915840 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 68[0m
+INFO 2021-11-16 18:48:31,741 basehttp 2375 140374598915840 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 364[0m
+INFO 2021-11-16 18:49:25,892 autoreload 2375 140374707468032 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 18:49:26,761 autoreload 2828 140581381453568 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 18:49:28,978 basehttp 2828 140581272901376 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 456[0m
+INFO 2021-11-16 18:49:33,227 basehttp 2828 140581272901376 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 261[0m
+INFO 2021-11-16 18:49:55,122 basehttp 2828 140581191808768 log_message 161 [m"GET /admin/ HTTP/1.1" 200 8710[0m
+INFO 2021-11-16 18:49:56,083 basehttp 2828 140581191808768 log_message 161 [m"GET /static/admin/css/base.css HTTP/1.1" 200 19513[0m
+INFO 2021-11-16 18:49:56,090 basehttp 2828 140581183416064 log_message 161 [m"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545[0m
+INFO 2021-11-16 18:49:56,437 basehttp 2828 140581175023360 log_message 161 [m"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876[0m
+INFO 2021-11-16 18:49:56,458 basehttp 2828 140581183416064 log_message 161 [m"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692[0m
+INFO 2021-11-16 18:49:56,574 basehttp 2828 140581191808768 log_message 161 [m"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184[0m
+WARNING 2021-11-16 18:49:56,659 basehttp 2828 140581175023360 log_message 161 [33m"GET /favicon.ico HTTP/1.1" 404 3054[0m
+INFO 2021-11-16 19:20:50,647 autoreload 2828 140581381453568 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:21:04,210 autoreload 7087 139822519662336 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:21:15,445 autoreload 7087 139822519662336 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:21:41,862 autoreload 7167 140163782407936 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:22:04,577 autoreload 7167 140163782407936 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:22:14,309 autoreload 7314 139945884247808 run_with_reloader 637 Watching for file changes with StatReloader
+ERROR 2021-11-16 19:23:20,539 log 7314 139945775433472 log_response 230 Internal Server Error: /core/movies_as_per_city/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'builtin_function_or_method' is not JSON serializable
+ERROR 2021-11-16 19:23:20,753 basehttp 7314 139945775433472 log_message 161 [35;1m"POST /core/movies_as_per_city/ HTTP/1.1" 500 108477[0m
+INFO 2021-11-16 19:23:44,836 basehttp 7314 139945775433472 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 498[0m
+ERROR 2021-11-16 19:24:45,259 log 7314 139945775433472 log_response 230 Internal Server Error: /core/movies_as_per_city/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'builtin_function_or_method' is not JSON serializable
+ERROR 2021-11-16 19:24:45,278 basehttp 7314 139945775433472 log_message 161 [35;1m"POST /core/movies_as_per_city/ HTTP/1.1" 500 108477[0m
+INFO 2021-11-16 19:24:59,148 autoreload 7314 139945884247808 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:25:05,672 autoreload 7707 139847881950976 run_with_reloader 637 Watching for file changes with StatReloader
+ERROR 2021-11-16 19:25:13,841 log 7707 139847773398784 log_response 230 Internal Server Error: /core/movies_as_per_city/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'builtin_function_or_method' is not JSON serializable
+ERROR 2021-11-16 19:25:13,878 basehttp 7707 139847773398784 log_message 161 [35;1m"POST /core/movies_as_per_city/ HTTP/1.1" 500 108477[0m
+ERROR 2021-11-16 19:25:49,587 log 7707 139847773398784 log_response 230 Internal Server Error: /core/movies_as_per_city/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'builtin_function_or_method' is not JSON serializable
+ERROR 2021-11-16 19:25:49,610 basehttp 7707 139847773398784 log_message 161 [35;1m"POST /core/movies_as_per_city/ HTTP/1.1" 500 108477[0m
+INFO 2021-11-16 19:26:19,810 basehttp 7707 139847773398784 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 498[0m
+INFO 2021-11-16 19:27:18,998 autoreload 7707 139847881950976 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:27:19,594 autoreload 8184 140457882134272 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 19:27:21,859 basehttp 8184 140457706444544 log_message 161 [33m"GET /micro_api/v1/routers/ HTTP/1.1" 404 3084[0m
+INFO 2021-11-16 19:27:24,677 basehttp 8184 140457706444544 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 470[0m
+ERROR 2021-11-16 19:27:27,452 log 8184 140457706444544 log_response 230 Internal Server Error: /core/movies_as_per_city/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'builtin_function_or_method' is not JSON serializable
+ERROR 2021-11-16 19:27:27,468 basehttp 8184 140457706444544 log_message 161 [35;1m"POST /core/movies_as_per_city/ HTTP/1.1" 500 108477[0m
+INFO 2021-11-16 19:28:11,995 autoreload 8184 140457882134272 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:28:12,562 autoreload 8286 140532637386496 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:28:17,975 autoreload 8286 140532637386496 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:28:18,676 autoreload 8291 140173271009024 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:28:27,290 autoreload 8394 140133656794880 run_with_reloader 637 Watching for file changes with StatReloader
+ERROR 2021-11-16 19:28:30,438 log 8394 140133548242688 log_response 230 Internal Server Error: /core/movies_as_per_city/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/renderers.py", line 103, in render
+    allow_nan=not self.strict, separators=separators
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'builtin_function_or_method' is not JSON serializable
+ERROR 2021-11-16 19:28:30,457 basehttp 8394 140133548242688 log_message 161 [35;1m"POST /core/movies_as_per_city/ HTTP/1.1" 500 108477[0m
+INFO 2021-11-16 19:29:14,291 autoreload 8394 140133656794880 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:29:14,768 autoreload 8493 140119624783616 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:29:20,223 autoreload 8493 140119624783616 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:29:20,855 autoreload 8499 140191220549376 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:29:22,511 basehttp 8499 140191111997184 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 286[0m
+INFO 2021-11-16 19:57:05,550 autoreload 8499 140191220549376 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:57:17,612 autoreload 12369 140547313587968 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:57:35,762 autoreload 12369 140547313587968 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:57:36,218 autoreload 12398 140202349737728 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 19:59:14,568 autoreload 12398 140202349737728 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 19:59:14,962 autoreload 12665 140406589114112 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:00:19,323 autoreload 12665 140406589114112 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:00:19,709 autoreload 12753 139889638782720 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:00:42,509 autoreload 12753 139889638782720 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:00:42,920 autoreload 12777 139899738134272 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:00:47,258 autoreload 12777 139899738134272 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:00:47,860 autoreload 12787 140651039803136 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:01:36,804 autoreload 12787 140651039803136 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/urls.py changed, reloading.
+INFO 2021-11-16 20:01:37,201 autoreload 12953 140613455521536 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:01:42,567 autoreload 12953 140613455521536 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/urls.py changed, reloading.
+INFO 2021-11-16 20:01:43,067 autoreload 12961 139930154407680 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:03:18,080 autoreload 12961 139930154407680 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:03:18,657 autoreload 13109 140021161776896 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:03:32,424 autoreload 13109 140021161776896 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/urls.py changed, reloading.
+INFO 2021-11-16 20:03:32,975 autoreload 13206 140662874339072 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:05:21,502 autoreload 13206 140662874339072 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:05:22,028 autoreload 13407 139728659863296 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:06:23,318 basehttp 13407 139728551311104 log_message 161 [33m"POST /core/get_seats_as_per_showtime HTTP/1.1" 404 3320[0m
+WARNING 2021-11-16 20:06:32,355 basehttp 13407 139728551311104 log_message 161 [33m"POST /core/get_seats_as_per_showtime/ HTTP/1.1" 404 3323[0m
+INFO 2021-11-16 20:06:44,617 basehttp 13407 139728551311104 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 66[0m
+INFO 2021-11-16 20:08:45,453 autoreload 13407 139728659863296 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:08:46,024 autoreload 14146 139980650505984 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:09:05,914 autoreload 14146 139980650505984 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/bms/settings.py changed, reloading.
+INFO 2021-11-16 20:09:08,243 basehttp 14247 139969292400384 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 66[0m
+INFO 2021-11-16 20:09:31,296 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/core/cinemaseat/ HTTP/1.1" 200 6658[0m
+INFO 2021-11-16 20:09:31,783 basehttp 14247 139969265649408 log_message 161 [m"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381[0m
+INFO 2021-11-16 20:09:31,819 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:09:31,896 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:09:31,945 basehttp 14247 139969275090688 log_message 161 [m"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630[0m
+INFO 2021-11-16 20:09:32,047 basehttp 14247 139969265649408 log_message 161 [m"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630[0m
+INFO 2021-11-16 20:09:32,157 basehttp 14247 139969265649408 log_message 161 [m"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381[0m
+INFO 2021-11-16 20:09:35,341 basehttp 14247 139969265649408 log_message 161 [m"GET /admin/core/cinemaseat/add/ HTTP/1.1" 200 10011[0m
+INFO 2021-11-16 20:09:35,441 basehttp 14247 139969265649408 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:09:35,489 basehttp 14247 139969283483392 log_message 161 [m"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634[0m
+INFO 2021-11-16 20:09:35,512 basehttp 14247 139969283483392 log_message 161 [m"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634[0m
+INFO 2021-11-16 20:09:51,781 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/core/showtime/ HTTP/1.1" 200 9319[0m
+INFO 2021-11-16 20:09:51,938 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:09:51,978 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:10:02,059 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/core/showtime/1/change/ HTTP/1.1" 200 13043[0m
+INFO 2021-11-16 20:10:02,146 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:10:14,030 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/core/cinema/1/change/?_to_field=id&_popup=1 HTTP/1.1" 200 5253[0m
+INFO 2021-11-16 20:10:14,104 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:10:14,156 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:10:26,884 basehttp 14247 139969283483392 log_message 161 [32m"POST /admin/core/cinemaseat/add/ HTTP/1.1" 302 0[0m
+INFO 2021-11-16 20:10:27,034 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/core/cinemaseat/ HTTP/1.1" 200 8459[0m
+INFO 2021-11-16 20:10:27,107 basehttp 14247 139969283483392 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+WARNING 2021-11-16 20:10:32,128 basehttp 14247 139969292400384 log_message 161 [31;1m"POST /core/seats_as_per_showtime/ HTTP/1.1" 400 82[0m
+INFO 2021-11-16 20:11:06,909 basehttp 14598 139655686534912 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 303[0m
+INFO 2021-11-16 20:11:22,081 basehttp 14598 139655686534912 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 66[0m
+INFO 2021-11-16 20:22:10,416 basehttp 15891 139877756696320 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 303[0m
+INFO 2021-11-16 20:22:21,122 basehttp 15891 139877756696320 log_message 161 [m"POST /user/login/ HTTP/1.1" 200 114[0m
+WARNING 2021-11-16 20:24:22,399 basehttp 15891 139877756696320 log_message 161 [33m"POST /core/reserve_tickets/?Authorization=Token%2042b1a89836244161cbc614233389d21fd58df2840cdd1f32c0a20f245f0460f6 HTTP/1.1" 404 3380[0m
+WARNING 2021-11-16 20:25:27,087 basehttp 15891 139877756696320 log_message 161 [33m"POST /core/reserve_tickets/ HTTP/1.1" 404 3293[0m
+WARNING 2021-11-16 20:25:50,403 basehttp 15891 139877756696320 log_message 161 [33m"POST /core/reserve_tickets/ HTTP/1.1" 404 3293[0m
+WARNING 2021-11-16 20:26:22,934 basehttp 16555 140481532974848 log_message 161 [33m"POST /core/reserve_tickets/ HTTP/1.1" 404 3293[0m
+WARNING 2021-11-16 20:26:32,705 basehttp 16582 140167395858176 log_message 161 [33m"POST /core/reserve_tickets/ HTTP/1.1" 404 3293[0m
+ERROR 2021-11-16 20:26:46,544 log 16720 140540169099008 log_response 230 Internal Server Error: /core/reserve_tickets/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2021-11-16 20:26:46,605 basehttp 16720 140540169099008 log_message 161 [35;1m"POST /core/reserve_tickets/ HTTP/1.1" 500 83305[0m
+ERROR 2021-11-16 20:28:38,219 log 16866 140219666278144 log_response 230 Internal Server Error: /core/reserve_tickets/
+Traceback (most recent call last):
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "/home/moksh/Desktop/Tutorial/shoppinglyx/venv/lib/python3.6/site-packages/rest_framework/views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2021-11-16 20:28:38,236 basehttp 16866 140219666278144 log_message 161 [35;1m"POST /core/reserve_tickets/ HTTP/1.1" 500 83312[0m
+WARNING 2021-11-16 20:31:58,340 basehttp 17419 140028310775552 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+WARNING 2021-11-16 20:32:23,559 basehttp 17511 139791530358528 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+WARNING 2021-11-16 20:32:55,942 basehttp 17556 140378908935936 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+WARNING 2021-11-16 20:33:00,892 basehttp 17612 140553457764096 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:34:47,520 autoreload 18036 140323581445888 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:34:50,791 basehttp 18036 140323472893696 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:35:15,804 autoreload 18036 140323581445888 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:35:18,972 autoreload 18144 140382060791552 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:35:19,565 basehttp 18144 140381878482688 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:36:13,148 autoreload 18144 140382060791552 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:36:20,149 autoreload 18360 140265427363584 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:36:29,379 basehttp 18360 140265318811392 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:36:42,943 autoreload 18360 140265427363584 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:36:44,003 autoreload 18416 139766755976960 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:37:48,960 basehttp 18416 139766647424768 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:38:02,804 autoreload 18416 139766755976960 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:38:03,384 autoreload 18739 140619064432384 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:38:24,386 autoreload 18739 140619064432384 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:38:24,989 autoreload 18860 140183810107136 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:38:39,714 autoreload 18860 140183810107136 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:38:40,208 autoreload 18877 140577490876160 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:38:46,590 autoreload 18889 139892735620864 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:38:50,601 basehttp 18889 139892627068672 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:39:07,527 autoreload 18889 139892735620864 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:39:08,111 autoreload 19002 140399592851200 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:39:13,515 autoreload 19002 140399592851200 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:39:14,109 autoreload 19052 140556444178176 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:39:15,952 basehttp 19052 140556335625984 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:39:24,764 autoreload 19052 140556444178176 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:39:28,701 autoreload 19095 140420541966080 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:39:39,596 autoreload 19095 140420541966080 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:39:40,168 autoreload 19122 139952500795136 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:39:52,690 basehttp 19122 139952392242944 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:40:32,238 autoreload 19122 139952500795136 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:40:32,761 autoreload 19218 139862377973504 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:40:37,773 autoreload 19228 139691251062528 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-16 20:40:45,038 basehttp 19228 139691142510336 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 62[0m
+INFO 2021-11-16 20:41:26,674 autoreload 19228 139691251062528 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:41:27,120 autoreload 19410 140617993873152 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:41:40,981 basehttp 19410 140617885320960 log_message 161 [m"POST /core/reserve_tickets/ HTTP/1.1" 200 298[0m
+INFO 2021-11-16 20:46:12,954 autoreload 19410 140617993873152 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:46:13,613 autoreload 20025 140311405115136 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:46:46,872 autoreload 20025 140311405115136 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:46:47,404 autoreload 20045 140312638924544 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:46:58,159 autoreload 20045 140312638924544 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:46:59,329 autoreload 20137 140041938654976 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:47:06,461 basehttp 20137 140041762780928 log_message 161 [m"POST /core/reserve_tickets/ HTTP/1.1" 200 298[0m
+WARNING 2021-11-16 20:47:12,788 basehttp 20137 140041762780928 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 400 90[0m
+INFO 2021-11-16 20:47:31,820 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/core/reservation/ HTTP/1.1" 200 8659[0m
+INFO 2021-11-16 20:47:32,034 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:47:32,114 basehttp 20137 140041728153344 log_message 161 [36m"GET /static/admin/css/changelists.css HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,184 basehttp 20137 140041728153344 log_message 161 [36m"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,375 basehttp 20137 140041728153344 log_message 161 [36m"GET /static/admin/js/core.js HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,380 basehttp 20137 140041718449920 log_message 161 [36m"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,401 basehttp 20137 140041718449920 log_message 161 [36m"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,407 basehttp 20137 140041728153344 log_message 161 [36m"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,473 basehttp 20137 140041736546048 log_message 161 [36m"GET /static/admin/js/actions.js HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,490 basehttp 20137 140041718449920 log_message 161 [36m"GET /static/admin/css/fonts.css HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,490 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:47:32,523 basehttp 20137 140041728153344 log_message 161 [36m"GET /static/admin/js/urlify.js HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,601 basehttp 20137 140041736546048 log_message 161 [36m"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,677 basehttp 20137 140041736546048 log_message 161 [36m"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,715 basehttp 20137 140041736546048 log_message 161 [36m"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:32,722 basehttp 20137 140041718449920 log_message 161 [36m"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0[0m
+INFO 2021-11-16 20:47:37,028 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/core/showtime/ HTTP/1.1" 200 9319[0m
+INFO 2021-11-16 20:47:37,100 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:47:40,789 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/core/cinemaseat/ HTTP/1.1" 200 8238[0m
+INFO 2021-11-16 20:47:40,902 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:47:40,957 basehttp 20137 140041736546048 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:47:56,031 autoreload 20137 140041938654976 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:48:02,920 autoreload 20328 140265641428736 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:48:31,569 autoreload 20328 140265641428736 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:48:36,419 autoreload 20505 140122826581760 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:48:46,850 autoreload 20505 140122826581760 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-16 20:48:47,612 autoreload 20526 140104996013824 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:48:51,953 autoreload 20538 140281995912960 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-16 20:48:55,812 basehttp 20538 140281819166464 log_message 161 [m"GET /admin/core/cinemaseat/ HTTP/1.1" 200 8238[0m
+INFO 2021-11-16 20:48:55,927 basehttp 20538 140281819166464 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:49:04,549 basehttp 20538 140281819166464 log_message 161 [m"GET /admin/core/reservation/ HTTP/1.1" 200 9080[0m
+INFO 2021-11-16 20:49:04,619 basehttp 20538 140281819166464 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:49:04,699 basehttp 20538 140281819166464 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-16 20:49:10,265 basehttp 20538 140281801594624 log_message 161 [m"POST /core/reserve_tickets/ HTTP/1.1" 200 257[0m
+INFO 2021-11-16 20:49:31,424 basehttp 20538 140281801594624 log_message 161 [m"POST /core/reserve_tickets/ HTTP/1.1" 200 297[0m
+INFO 2021-11-16 20:49:39,367 basehttp 20538 140281801594624 log_message 161 [m"POST /core/reserve_tickets/ HTTP/1.1" 200 256[0m

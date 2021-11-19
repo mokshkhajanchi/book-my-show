@@ -1,0 +1,82 @@
+INFO 2021-11-18 16:22:26,445 autoreload 14525 140679399216896 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-18 16:22:39,813 basehttp 14525 140679290664704 log_message 161 [33m"GET / HTTP/1.1" 404 3403[0m
+WARNING 2021-11-18 16:22:40,133 basehttp 14525 140679290664704 log_message 161 [33m"GET /favicon.ico HTTP/1.1" 404 3454[0m
+INFO 2021-11-18 16:22:48,201 basehttp 14525 140679290664704 log_message 161 [m"GET /admin/ HTTP/1.1" 200 9016[0m
+INFO 2021-11-18 16:22:48,854 basehttp 14525 140679290664704 log_message 161 [36m"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:49,177 basehttp 14525 140679290664704 log_message 161 [36m"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:49,304 basehttp 14525 140679290664704 log_message 161 [36m"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:49,480 basehttp 14525 140679282272000 log_message 161 [m"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184[0m
+INFO 2021-11-18 16:22:49,486 basehttp 14525 140679272044288 log_message 161 [m"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876[0m
+INFO 2021-11-18 16:22:49,524 basehttp 14525 140679290664704 log_message 161 [m"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692[0m
+INFO 2021-11-18 16:22:58,591 basehttp 14525 140679290664704 log_message 161 [m"GET /admin/core/cinema/ HTTP/1.1" 200 9278[0m
+INFO 2021-11-18 16:22:58,766 basehttp 14525 140679290664704 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-18 16:22:58,806 basehttp 14525 140679272044288 log_message 161 [m"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630[0m
+INFO 2021-11-18 16:22:58,810 basehttp 14525 140679282272000 log_message 161 [m"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381[0m
+INFO 2021-11-18 16:22:58,822 basehttp 14525 140679290664704 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-18 16:22:58,881 basehttp 14525 140679272044288 log_message 161 [36m"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:58,901 basehttp 14525 140679290664704 log_message 161 [m"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630[0m
+INFO 2021-11-18 16:22:58,913 basehttp 14525 140679282272000 log_message 161 [36m"GET /static/admin/js/core.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:58,914 basehttp 14525 140679263389440 log_message 161 [36m"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:58,920 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/js/actions.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:58,939 basehttp 14525 140679290664704 log_message 161 [m"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381[0m
+INFO 2021-11-18 16:22:58,948 basehttp 14525 140679272044288 log_message 161 [36m"GET /static/admin/js/urlify.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:22:58,963 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:08,348 basehttp 14525 140679272044288 log_message 161 [m"GET /admin/core/movie/ HTTP/1.1" 200 8379[0m
+INFO 2021-11-18 16:23:08,434 basehttp 14525 140679272044288 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-18 16:23:10,343 basehttp 14525 140679272044288 log_message 161 [m"GET /admin/core/movie/add/ HTTP/1.1" 200 9939[0m
+INFO 2021-11-18 16:23:10,498 basehttp 14525 140679272044288 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-18 16:23:10,532 basehttp 14525 140679290664704 log_message 161 [36m"GET /static/admin/css/forms.css HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,532 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/js/calendar.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,539 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,542 basehttp 14525 140679272044288 log_message 161 [m"GET /admin/jsi18n/ HTTP/1.1" 200 3195[0m
+INFO 2021-11-18 16:23:10,603 basehttp 14525 140679272044288 log_message 161 [36m"GET /static/admin/css/widgets.css HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,613 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/js/calendar.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,628 basehttp 14525 140679290664704 log_message 161 [36m"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,629 basehttp 14525 140679282272000 log_message 161 [36m"GET /static/admin/js/change_form.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,670 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/js/change_form.js HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,814 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0[0m
+INFO 2021-11-18 16:23:10,861 basehttp 14525 140679254996736 log_message 161 [36m"GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0[0m
+INFO 2021-11-18 17:32:57,161 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 286[0m
+INFO 2021-11-18 20:25:26,423 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:25:46,564 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:27:06,803 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:28:00,606 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:28:32,334 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:28:36,010 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 60[0m
+INFO 2021-11-18 20:29:22,132 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 60[0m
+INFO 2021-11-18 20:31:58,986 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 286[0m
+INFO 2021-11-18 20:32:05,455 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:32:26,549 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:33:15,159 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:33:24,094 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:37:03,547 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:37:11,751 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:37:17,508 basehttp 14525 140679272044288 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:37:34,170 autoreload 14525 140679399216896 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-18 20:37:34,781 autoreload 14811 139696988378880 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-18 20:37:40,273 basehttp 14811 139696879826688 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:37:45,018 basehttp 14811 139696879826688 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:37:49,710 basehttp 14811 139696879826688 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:37:53,999 basehttp 14811 139696879826688 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 67[0m
+INFO 2021-11-18 20:38:40,606 autoreload 14811 139696988378880 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-18 20:38:46,404 autoreload 15065 140375966988032 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-18 20:40:24,255 basehttp 15065 140375858435840 log_message 161 [m"POST /core/movies_as_per_city/ HTTP/1.1" 200 286[0m
+INFO 2021-11-18 20:40:29,857 basehttp 15065 140375858435840 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 498[0m
+INFO 2021-11-18 20:43:12,636 basehttp 15065 140375858435840 log_message 161 [m"POST /core/cinemas_as_per_movie/ HTTP/1.1" 200 68[0m
+INFO 2021-11-18 20:46:38,307 basehttp 15065 140375858435840 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 302[0m
+INFO 2021-11-18 20:46:47,232 basehttp 15065 140375858435840 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 66[0m
+INFO 2021-11-18 20:46:51,883 basehttp 15065 140375858435840 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 302[0m
+INFO 2021-11-18 20:47:44,638 basehttp 15065 140375858435840 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 302[0m
+INFO 2021-11-18 20:51:23,947 basehttp 15065 140375858435840 log_message 161 [m"POST /core/seats_as_per_showtime/ HTTP/1.1" 200 302[0m
+WARNING 2021-11-18 20:51:40,393 basehttp 15065 140375858435840 log_message 161 [31;1m"POST /core/seats_as_per_showtime/ HTTP/1.1" 400 85[0m
+INFO 2021-11-18 20:55:29,438 autoreload 15065 140375966988032 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-18 20:55:30,006 autoreload 17533 140213579110144 run_with_reloader 637 Watching for file changes with StatReloader
+INFO 2021-11-18 20:55:42,799 autoreload 17533 140213579110144 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/urls.py changed, reloading.
+INFO 2021-11-18 20:55:43,263 autoreload 17548 139771324135168 run_with_reloader 637 Watching for file changes with StatReloader
+WARNING 2021-11-18 21:03:04,199 basehttp 17548 139771215582976 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 401 27[0m
+INFO 2021-11-18 21:03:10,477 basehttp 17548 139771215582976 log_message 161 [m"POST /user/login/ HTTP/1.1" 200 114[0m
+INFO 2021-11-18 21:03:25,788 basehttp 17548 139771215582976 log_message 161 [m"POST /core/reserve_tickets/ HTTP/1.1" 200 257[0m
+INFO 2021-11-18 21:26:45,292 basehttp 17548 139771215582976 log_message 161 [m"POST /core/reserve_tickets/ HTTP/1.1" 200 297[0m
+WARNING 2021-11-18 21:29:54,616 basehttp 17548 139771215582976 log_message 161 [31;1m"POST /core/reserve_tickets/ HTTP/1.1" 401 58[0m
+INFO 2021-11-18 21:32:42,870 autoreload 17548 139771324135168 trigger_reload 251 /home/moksh/virtualenvironment/bms/bms/core/views.py changed, reloading.
+INFO 2021-11-18 21:32:44,225 autoreload 23043 139687515780864 run_with_reloader 637 Watching for file changes with StatReloader

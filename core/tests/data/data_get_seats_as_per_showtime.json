@@ -1,0 +1,55 @@
+[{
+    "sr_no": 1,
+    "status": "active",
+    "case": "Case 1: Basic functionality check",
+    "input_data": {
+        "name": "get-seats-as-per-showtime",
+        "data": {
+            "showtime_id": 1
+        }
+    },
+    "output_data": {
+        "message": "Seats retrieved successfully",
+        "status": true,
+        "data": [{
+            "id": 1,
+            "available_seats": 61,
+            "cinema_id": 1,
+            "city": "Mumbai",
+            "movie": "Venom 2: Let there be Carnage",
+            "description": "Venom 2: Let there be Carnage",
+            "duration": 120,
+            "date": "2021-11-14",
+            "from": "2021-11-14T18:00:00",
+            "to": "2021-11-14T20:00:00"
+        }]
+    }
+}, {
+    "sr_no": 2,
+    "status": "active",
+    "case": "Case 2: Sending empty request body",
+    "input_data": {
+        "name": "get-seats-as-per-showtime",
+        "data": {}
+    },
+    "output_data": {
+        "message": "Request body is empty",
+        "status": false,
+        "data": []
+    }
+}, {
+    "sr_no": 3,
+    "status": "active",
+    "case": "Case 3: Generating error by sending 'rtetre' as showtime_id",
+    "input_data": {
+        "name": "get-seats-as-per-showtime",
+        "data": {
+            "showtime_id": "rtetre"
+        }
+    },
+    "output_data": {
+        "message": "Field 'id' expected a number but got 'rtetre'.",
+        "status": false,
+        "data": []
+    }
+}]
