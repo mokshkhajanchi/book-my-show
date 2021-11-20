@@ -1,0 +1,7 @@
+version: '3.4'
+
+services:
+  book-my-show-django-api:
+    image: mokshkhajanchi/book-my-show-django-api:1.0
+    ports:
+      - 8000:8000
