@@ -3,7 +3,7 @@ pipeline {
     stages{
         stage("git clone") {
             steps {
-                git branch: branch, git credentialsId: 'bms-git-credentials', url: 'https://github.com/mokshkhajanchi/book-my-show.git'
+                sh 'git clone https://github.com/mokshkhajanchi/book-my-show.git'
             }
         }
         stage("build") {
