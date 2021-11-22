@@ -10,7 +10,7 @@ node {
     //     sh 'docker build -t mokshkhajanchi/book-my-show-django-api:1.0 .'
     // }
     stage('push docker image') {
-        withCredentials([string(credentialsId: 'bms-docker-credentials', variable: 'bms_docker_credentials')]) {
+        withCredentials([string(credentialsId: 'bms-docker-credentials', passwordVariable: 'bms_docker_credentials')]) {
             //sh "docker login -u mokshkhajanchi -p ${bms-docker-credentials}"
             sh "echo ${bms_docker_credentials}"
         }
