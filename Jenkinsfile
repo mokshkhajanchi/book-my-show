@@ -21,9 +21,4 @@ node {
             sh "ssh -o StrictHostKeyChecking=no ubuntu@ec2-34-217-230-80.us-west-2.compute.amazonaws.com ${docker_run}"
         }
     }
-    post {
-		always {
-			sh 'docker logout'
-		}
-	}
 }
